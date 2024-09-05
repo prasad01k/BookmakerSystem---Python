@@ -5,5 +5,7 @@ This is my second Skill Development Project, developed using Python Full Stack w
 Key Technologies:
 
 Frontend: HTML, CSS, JavaScript<br>
+
 Backend: Django Framework<br>
+
 Database: MySQL
